@@ -1,10 +1,10 @@
-## Open Spaces - Day 1
+# Open Spaces - Day 1
 
 * Docs for DevOps
 * K8S Too Complex? Getting Started?
 * Interviewing Devs Better
 
-# Docs for DevOps
+## Docs for DevOps
 
 * Understanding the processes is key
 * Some use ServiceNow, Others Confluence (use other search or Algolia, Elastic Search, etc) or Jira
@@ -31,7 +31,7 @@
     * Contributing - How to adapting to meet user needs (for common services)
 * Swagger (Docs as Code, Product is Documenation books) for documentation in code
 
-# K8S Too Complex? Getting Started?
+## K8S Too Complex? Getting Started?
 
 * Swarm to Kubernetes migration was not a heavy lift; Heavily containterized environment makes it an easier move
 * Overhead can be significant; More opinionated
@@ -56,7 +56,7 @@
     * Local setup could be difficult
 
 
-# Interviewing Devs Better
+## Interviewing Devs Better
 * Whiteboard interviews v. Binary Search Tree type problem
 * Not fully sufficient, important to emphasize communication and thought process
 * Whiteboard exists for clarity of understanding
