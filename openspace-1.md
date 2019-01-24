@@ -57,6 +57,25 @@
 
 
 # Interviewing Devs Better
-
-
-
+* Whiteboard interviews v. Binary Search Tree type problem
+* Not fully sufficient, important to emphasize communication and thought process
+* Whiteboard exists for clarity of understanding
+* Value question if they don't fit the environment, despite talent
+* False negative could be a bigger issue, person understands what is required and why but can cause other feelings
+* Currently in a candidate driven environment, according to a recruitter
+* Question may not fit the task at hand; Screening for false negative/false positive
+* Successful menthods
+    * Ask very basic questions to find the true developer v. the ones chasing money
+* Question of what outside time is used for?
+    * Fun on the computer (passion) v. the money
+    * Mix of types on a dev team 
+    * Timebox of code questions; Not in isolation
+    * Question of more work for the same money
+    * Immersive Lunch and Add functionality to existing code on the computer on the same day
+    * Add functionality more reflective of the role
+    * Complaints and drop off in candidates with take home code piece of the interview
+    * Concerns about anxiety and depression with the technical interview process
+    * Open ended questions for "technical" piece between phone screen and in person interview
+    * Lots of shower and "slower" thinkers
+    * Training for interviewing is not commonplace (suggested: Ideal Team Player book)
+    
