@@ -1,6 +1,8 @@
 ## Open Spaces - Day 1
 
 * Docs for DevOps
+* K8S Too Complex? Getting Started?
+* Interviewing Devs Better
 
 # Docs for DevOps
 
@@ -28,5 +30,33 @@
     * Onboarding
     * Contributing - How to adapting to meet user needs (for common services)
 * Swagger (Docs as Code, Product is Documenation books) for documentation in code
+
+# K8S Too Complex? Getting Started?
+
+* Swarm to Kubernetes migration was not a heavy lift; Heavily containterized environment makes it an easier move
+* Overhead can be significant; More opinionated
+* Public v Internal facing decisions
+* Containerization is likely to be a seperate question from orchestration
+* Conceptial change with pods, but scaling can be fine tuned in K8S
+* Concerns around Docker's investment in Swarm vs. everyone elses inventment in K8s
+* How to approach getting K8s setup?
+    * Go to containerization first
+    * Trying to design K8s implemementation in isolation is unlikely to be a successful approach
+    * All in 1 shot unlikely to be successful if concepts not well understood
+* Why use it?
+    * Self-healing
+    * Service Meshing
+    * Service packing (service density on a host)
+    * Better resource utilization
+* What goes wrong?
+    * External DNS plugin - Fighting over DNS entries by pods in different namespaces
+    * Database usage? NoSQL DBs with redudant/sharding probably ok if arch'd correctly, SQL unlikely; Others suggest not to do it at all; No real benefits and requires substancial work
+* Sandbox/Getting Started
+    * K8s same front end regardless of location
+    * Local setup could be difficult
+
+
+# Interviewing Devs Better
+
 
 
