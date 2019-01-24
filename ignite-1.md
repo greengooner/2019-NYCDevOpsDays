@@ -1,6 +1,6 @@
-## Ignite Talk
+# Ignite Talk
 
-# Control - launchdarkley.com
+## Control - launchdarkley.com
 * Planes have a budget of failures that will still allow operation when failed
 * Control is an illusion, There will always be failure
 * Don't we know when or where things will fail
@@ -11,7 +11,7 @@
 * Everyone's backend is someone's front end
 * Depend on nothing. Assume good effort. 
 
-# Better Documentation through Empathy
+## Better Documentation through Empathy
 * Empathize with your audiaence
 * Ability to image what someone is thnking or feeling
 * Imagine why they are reeading in the first place
@@ -31,13 +31,13 @@
         * Use structure to help users help themselves
 * Use empathcy to image what your audience needs
 
-# Prioritizing Explosions
+## Prioritizing Explosions
 * Failure Mode Effects Analysis
     * Analyzing ways things can fail, set ranks
     * Object method of what matters
     * EMEA Workflow
 
-# Inner-Source
+## Inner-Source
 * Best of Open Source into Company
 * Build once, use many times
 * Improve code quality
@@ -53,7 +53,7 @@
     5. Innersource my role and move on - Needs at the very least a maintainer and product owner
     6. Innersource is only for the unicorns - For everyone of every size.
 
-# Recording Arch Decisions
+## Recording Arch Decisions
 * Most of us take theses decisions seriously
 * We then implement and context is lost
 * Future changes may not be made in the same knowledge of context
