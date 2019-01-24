@@ -53,4 +53,21 @@
     5. Innersource my role and move on - Needs at the very least a maintainer and product owner
     6. Innersource is only for the unicorns - For everyone of every size.
 
+# Recording Arch Decisions
+* Most of us take theses decisions seriously
+* We then implement and context is lost
+* Future changes may not be made in the same knowledge of context
+* ADRs
+    * Save with project in incrementing sequence (using .md)
+    * Date
+    * Status
+    * Context of decision
+    * Decision
+    * Consequences
+* Leverage existing workflow
+* What should require an ADR?
+    * If there is a question, do it.
+* Multiproject decisions in seperate repository
+* New team member onboarding
+* Thoughtworks use ADRs
 
