@@ -4,3 +4,8 @@
 * [Making Connections Visible: How to Defrag your Value Stream](defrag.md)
 * [Open Spaces Sessions](openspace-1.md)
 * [Ignite Talks](ignite-1.md)
+
+## Day 2
+* [Organizing for Your Ethical Principles](ethics.md)
+* [Open Spaces Sessions](openspace-2.md)
+* [Ignite Talks](ignite-2.md)
