@@ -30,5 +30,8 @@
     * Start with security dependencies are factored in; Requests sent early and allow time
     * Context of security and privacy requirements in the locality of the software operation
 
-## 
+## Tactical Whimsey Injection
+
+## Checklists
+
 
