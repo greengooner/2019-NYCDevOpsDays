@@ -31,3 +31,8 @@
     * People maybe in the same meeting but one person may miss something others hear because they weren't focused but others can step in at the time of tasks; Difficult to automate for that kind of stuff.
     * Increased feedback necessary for increased complexity in the system
     * Communication is not message passing
+* QA:
+    * Abstract business complexity to increase capacity for technical complexity
+    * Learn for each other on teams, helps address some complexity as long as there is an understanding of the goal for team for the business
+    * Technical debt is more about adding to improve the system than anything else
+    * The tools for devops automation should focus providing value for the dev and ops teams in the org, end users are different
