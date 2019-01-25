@@ -27,3 +27,19 @@
     * Inspect for infra testing
 
 ## Secrets Management in CI/CD Pipeline
+* Can use Vault for a CA, only 1 blog with it but easy to setup (env. 500 servers)
+* API request for a CSR to send to Vault; Can happen quickly
+* Safe space for admitting to storing secrets in Git (ha!)
+* Precommit hook, scan for secrets, if valid (test), sent to Security team; Use regex (trufflehog created too many false pos.)
+* Can use ```.gitattributes``` to prevent commiting secrets
+* Breaches WILL happen. Question of speed of recovering from it
+* Puppet module allowed for auto-rotating secrets every 30 days; Transitioning to Ansible
+* SSH key handling rotating with Duo, Vault
+* Requirement of applications to use Kerberos and ties back to AD, Service accounts have passwords stored in CyberArk
+* Pullscreen/aws-rotate-key - Enabled to provide a main access key
+* Legacy application concerns but downtime will need to happen. Ex of Jira, requires a blue/green secrets change
+* Make 2 users at the same time for DB connections?
+* Chamber - from Signal IO - Secrets populated as environment variables (could use for Docker?)
+* Someone built a K/V secret store for the apps to handle the secrets and up to applications to be able to check it frequently
+* CI/CD system should connect to the secrets location
+* Secrets location is a honeypot unelss access to the location is auto-rotated frequently
