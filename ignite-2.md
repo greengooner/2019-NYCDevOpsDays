@@ -1,6 +1,11 @@
 # Ignite Day 2
 
 ## AWS What you see is what you get
+Source Materials:
+* Slides: [https://www.slideshare.net/AntonBabenko/what-you-see-is-what-you-get-for-aws-infrastructure](https://github.com/antonbabenko/modules.tf-lambda)
+* GitHub: [https://github.com/antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda)
+
+Notes:
 * Cloud Archs and DevOps Engs. accelerate moves from idea to prod
 * Tools
     * Cloudcraft - Plans, visualization

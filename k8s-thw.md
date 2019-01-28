@@ -1,5 +1,8 @@
 ## Kubernetes at Datadog: The Very Hard Way
+Source Materials:
+* Slides: [https://www.slideshare.net/RobertBoll/kubernetes-the-very-hard-way](https://www.slideshare.net/RobertBoll/kubernetes-the-very-hard-way)
 
+Notes:
 * A tale of early adoption
 * In 2016:
     * Entirely in 1 AWS Region

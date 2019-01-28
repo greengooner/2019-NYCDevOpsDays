@@ -1,5 +1,8 @@
 # Principles of Collaborative Automation
+Source Materials:
+Slides: [https://www.dropbox.com/s/5si2tfq75xsbtnj/poca.pdf?dl=0](https://www.dropbox.com/s/5si2tfq75xsbtnj/poca.pdf?dl=0)
 
+Notes:
 * DevOps - Its a situation
 * The software is on the team: Editors, Pipelines, Build Tools, etc - all necessary for success
 * Socio-technical system - Requires both people and techology to work

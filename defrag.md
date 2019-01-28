@@ -1,4 +1,8 @@
-### Main Talk:  Making Connections Visible: How to Defrag your Value Stream
+# Main Talk:  Making Connections Visible: How to Defrag your Value Stream
+Source Materials:
+* [https://speakerdeck.com/dominicad/making-connections-visible-how-to-defrag-your-value-stream-75a2fe2d-e52b-47d4-898f-e3ae4b1c505e](https://speakerdeck.com/dominicad/making-connections-visible-how-to-defrag-your-value-stream-75a2fe2d-e52b-47d4-898f-e3ae4b1c505e)
+
+Notes:
 * Improving the flow (first way of DevOps)
 * Specialization
     * Knowledge required is too diverse to be supported by single full service individuals
